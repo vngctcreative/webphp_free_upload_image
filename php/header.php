@@ -12,7 +12,7 @@
     <div class="navbar">
         <a href="/" class="navbar-brand">Free Upload Image</a>
         <ul class="navbar-nav">
-            <li class="nav-item"><a href="https://github.com/vngctcreative/free_upload_image" class="nav-link">Repositories</a></li>
+            <li class="nav-item"><a href="https://github.com/vngctcreative/webphp_free_upload_image" class="nav-link">Repositories</a></li>
             <li class="nav-item"><a href="https://vngctcreative.github.io/" class="nav-link">GitHub Creative</a></li>
         </ul>
         <div class="theme-switcher">
