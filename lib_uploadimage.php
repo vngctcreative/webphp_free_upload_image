@@ -29,7 +29,7 @@ if($checkimage == false){
      die(header('location: ./?er=5'));
 }
 
-$client_id = "4ec3406826c04ac";
+$client_id = "Your_Client_ID";
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, 'https://api.imgur.com/3/image.json');
 curl_setopt($ch, CURLOPT_POST, TRUE);
