@@ -32,7 +32,7 @@ Trước khi bắt đầu, hãy đảm bảo rằng bạn đã đáp ứng các 
 
 1. **Clone repository**
     ```bash
-    git clone https://github.com/vngctcreative/free_upload_image.git
+    git clone https://github.com/vngctcreative/webphp_free_upload_image.git
     cd free_upload_image
     ```
     
@@ -45,7 +45,7 @@ Trước khi bắt đầu, hãy đảm bảo rằng bạn đã đáp ứng các 
 
 ## Sử Dụng
 
-1. **Mở trình duyệt web** và điều hướng đến URL nơi dự án được lưu trữ (ví dụ: `http://localhost/free_upload_image`).
+1. **Mở trình duyệt web** và điều hướng đến URL nơi dự án được lưu trữ (ví dụ: `http://localhost/webphp_free_upload_image`).
 2. **Chọn một file ảnh** để upload.
 3. **Nhấn vào "Upload Ảnh"** để upload ảnh lên Imgur.
 4. **Sao chép liên kết ảnh** được cung cấp sau khi upload thành công để chia sẻ nó.
